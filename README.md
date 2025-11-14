@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 14.11.2025
+## Reference Number: 212224040311
+## Name: Shasmithaa Sankar
 ## Problem Title
 SIH 25006: Development of a Digital Farm Management Portal for implementing Biosecurity measures in Pig and Poultry Farms
 ## Problem Description
@@ -41,27 +41,136 @@ Ministry of Fisheries, Animal Husbandry & Dairying
 Department of Animal Husbandry & Dairying (DoAH&D)
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+
+Detailed Explanation of the Proposed Solution:
+
+We propose building a Digital Biosecurity Farm Management Portal designed specifically for pig and poultry farmers. The platform will offer:
+
+Smart Risk Assessment – Farmers answer a few questions, and the system generates a personalized biosecurity score and checklist.
+
+Interactive Learning Zone – Simple videos, voice-based instructions, quizzes, AR-based demonstrations for hygiene and waste management.
+
+Compliance Tracker – Daily logs, photo uploads, vaccination reminders, and progress toward government-approved disease-free compartment standards.
+
+Real-Time Alerts – Disease outbreak alerts, weather-based disease prediction, and warnings about biosecurity breaches.
+
+Farmer–Vet Network – Built-in chat, video call, and emergency reporting system.
+
+Multilingual Access – Hindi, English, and major regional languages.
+
+Offline Mode – Works even with low network conditions common in rural areas.
+
+How It Addresses the Problem:
+
+Gives farmers easy access to critical biosecurity knowledge
+
+Removes the need for physical training by offering digital learning
+
+Helps maintain records digitally, which improves compliance
+
+Alerts prevent disease spread early
+
+Builds a communication bridge between farmers and vets
+
+Supports government monitoring and decision-making
+
+Innovation and Uniqueness:
+
+AI-powered risk assessment tailored to each farm
+
+Voice-assisted navigation for non-literate users
+
+AR-based training modules for practical demonstrations
+
+Disease prediction models using weather + historical data
+
+All-in-one platform combining alerts, training, compliance, and collaboration
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
 
+Technologies to Be Used:
+
+Frontend: ReactJS / Flutter (for mobile-first design)
+
+Backend: Node.js / Django
+
+Database: PostgreSQL / Firebase
+
+AI/ML Tools: Python, TensorFlow/PyTorch
+
+Mapping & Alerts: Google Maps API, OpenWeather API
+
+Security: Role-based access + encrypted health records
+
+Cloud: AWS / Azure
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
 
+Feasibility Analysis:
+
+Mobile phones are widely available → high adoption
+
+Simple UI ensures even non-tech farmers can use it
+
+Uses cloud storage → scalable across India
+
+Matches government digital livestock missions
+
+Potential Challenges and Risks:
+
+Low digital literacy in rural areas
+
+Poor internet connectivity
+
+Hesitation from elderly farmers
+
+Ensuring real-time data accuracy
+
+Strategies to Overcome Challenges:
+
+Voice instructions + icons-based UI
+
+Offline mode for low network areas
+
+On-ground training workshops
+
+Auto-verification using photos/GPS
+
+Incentives like digital badges for compliance
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Impact on Target Audience
+
+Farmers get practical tools to protect their animals
+
+Vets get better data to diagnose problems early
+
+Government gets clean data for disease surveillance
+
+Benefits
+Social:
+
+Safer livestock → more stable rural livelihoods
+
+Better farmer awareness
+
+Economic:
+
+Reduced disease losses
+
+More productivity and profits
+
+Environmental:
+
+Better waste management
+
+Lower chance of outbreaks spreading in the environment
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+Department of Animal Husbandry & Dairying official guidelines
+
+FAO Biosecurity Standards for Poultry & Swine
+
+OIE (World Organisation for Animal Health) Biosecurity Manuals
+
+National Surveillance Programs – Govt. of India
+
+Research papers on disease prediction models in livestock
